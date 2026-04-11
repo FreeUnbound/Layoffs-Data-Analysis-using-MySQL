@@ -21,7 +21,7 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 
 
 
- # Data Cleaning Steps
+ # Data Cleaning Steps :
 
 • Removed duplicate records 
 
@@ -34,7 +34,7 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 
 
 
-# Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA) :
 
 
 
