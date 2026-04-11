@@ -5,11 +5,11 @@ The dataset used in this project contains real-world layoff data, which often in
  Data Analysis Project using MySQL (Data Cleaning + EDA)
 This project is based on the guided data analysis tutorial by Alex The Analyst, where I performed end-to-end data analysis using MySQL.
 
- Project Overview
+ # Project Overview
 In this project, I worked with a real-world dataset and applied SQL techniques to clean, transform, and analyze the data. The goal was to extract meaningful insights through structured querying and exploratory data analysis (EDA).
 
 
- Tools & Technologies
+ # Tools & Technologies
 
 • MySQL
 
@@ -21,7 +21,7 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 
 
 
- Data Cleaning Steps
+ # Data Cleaning Steps
 
 • Removed duplicate records 
 
@@ -34,11 +34,11 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 
 
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 
 
-Company-Level Insights
+# Company-Level Insights
 
 • Identified companies with the highest total layoffs
 
@@ -50,7 +50,7 @@ Company-Level Insights
 
 
 
-Industry & Country Analysis
+# Industry & Country Analysis
 
 • Found industries with the highest layoffs
 
@@ -60,7 +60,7 @@ Industry & Country Analysis
 
 
 
-Time-Based Trends
+# Time-Based Trends
 
 • Analyzed layoffs by:
 
@@ -77,7 +77,7 @@ Time-Based Trends
 
 
 
-Layoff Severity Analysis
+# Layoff Severity Analysis
 
 • Identified:
 
@@ -90,7 +90,7 @@ Layoff Severity Analysis
 
 
 
-SQL Concepts Used
+# SQL Concepts Used
 
 • Aggregations (SUM, AVG, MAX)
 
@@ -107,7 +107,7 @@ SQL Concepts Used
 
 
 
-Insights
+# Insights
 
 • Certain industries and countries were disproportionately affected
 
