@@ -20,6 +20,7 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 • Exploratory Data Analysis (EDA)
 
 
+
  Data Cleaning Steps
 
 • Removed duplicate records 
@@ -31,7 +32,11 @@ In this project, I worked with a real-world dataset and applied SQL techniques t
 • Removed unimportant column
 
 
+
+
 Exploratory Data Analysis (EDA)
+
+
 
 Company-Level Insights
 
@@ -43,6 +48,8 @@ Company-Level Insights
 
 • Ranked top companies by layoffs using DENSE_RANK()
 
+
+
 Industry & Country Analysis
 
 • Found industries with the highest layoffs
@@ -50,6 +57,8 @@ Industry & Country Analysis
 • Compared layoffs across different countries
 
 • Identified geographical trends in workforce reductions
+
+
 
 Time-Based Trends
 
@@ -65,6 +74,9 @@ Time-Based Trends
 
 • Built a rolling total of layoffs over time using window functions
 
+
+
+
 Layoff Severity Analysis
 
 • Identified:
@@ -74,6 +86,8 @@ Layoff Severity Analysis
 • Companies with 100% layoffs
 
 • Compared layoffs with funding raised
+
+
 
 
 SQL Concepts Used
@@ -90,10 +104,15 @@ SQL Concepts Used
 
 • Filtering & Sorting
 
+
+
+
 Insights
 
 • Certain industries and countries were disproportionately affected
 
 • Layoffs peaked during specific time periods
+
 • Some companies experienced complete workforce layoffs (100%)
+
 • Rolling trends revealed waves of layoffs rather than isolated events
